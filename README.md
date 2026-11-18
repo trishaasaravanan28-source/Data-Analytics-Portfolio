@@ -1,4 +1,4 @@
-# vedema.github.io
+# https://github.com/trishaasaravanan28-source/Data-Analytics-Portfolio
 
-# Week 0 setup completed by Vivian Edema
+# Week 0 setup completed by Trishaa Saravanan
 
